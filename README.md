@@ -4,17 +4,17 @@
 Seong Auto Parts - É um sistema E-COMMERCE que possui várias funcionalidades que são típicas em sistemas de gestão para empresas de peças automotivas.
 
 ## Estrutura
-Login: Exibe uma tela de login para acessar o sistema (Para acessar basta colocar Usuário: admin / Senha: admin).
-Vitrine: Exibe os produtos disponíveis na loja para visualização e compra.
-Carrinho: Permite que os clientes adicionem produtos ao carrinho de compras e revisem suas seleções antes de finalizar a compra.
-Pagamento: Gera a interface para o processamento de pagamentos.
-Fornecedores: Gerencia as informações dos fornecedores.
-Clientes: Armazena informações dos clientes e seu histórico de compras.
-Colaboradores: Gerencia dados dos colaboradores e suas respectivas funções.
-Financeiro: Controla as transações financeiras, incluindo contas a pagar e a receber.
-Relatórios: Gera relatórios com base nos dados do sistema para análise e tomada de decisões.
-Estoque: Monitora e controla os níveis de estoque dos produtos.
-Ferramentas: Inclui algumas ferramentas auxiliares, como backup, restauração e configurações do usuário.
+- Login: Exibe uma tela de login para acessar o sistema (Para acessar basta colocar Usuário: admin / Senha: admin).
+- Vitrine: Exibe os produtos disponíveis na loja para visualização e compra.
+- Carrinho: Permite que os clientes adicionem produtos ao carrinho de compras e revisem suas seleções antes de finalizar a compra.
+- Pagamento: Gera a interface para o processamento de pagamentos.
+- Fornecedores: Gerencia as informações dos fornecedores.
+- Clientes: Armazena informações dos clientes e seu histórico de compras.
+- Colaboradores: Gerencia dados dos colaboradores e suas respectivas funções.
+- Financeiro: Controla as transações financeiras, incluindo contas a pagar e a receber.
+- Relatórios: Gera relatórios com base nos dados do sistema para análise e tomada de decisões.
+- Estoque: Monitora e controla os níveis de estoque dos produtos.
+- Ferramentas: Inclui algumas ferramentas auxiliares, como backup, restauração e configurações do usuário.
 
 ## Tecnologias Utilizadas
 
