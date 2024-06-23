@@ -1,20 +1,20 @@
 # SEONG AUTO PARTS
 ## Descrição do Projeto
 
-Seong Auto Parts - É um sistema que possui várias funcionalidades que são típicas em sistemas de gestão para empresas de peças automotivas
+Seong Auto Parts - É um sistema E-COMMERCE que possui várias funcionalidades que são típicas em sistemas de gestão para empresas de peças automotivas.
 
 ## Estrutura
-
-- *Fornecedor:* Gerencia as informações dos fornecedores e os produtos fornecidos.
-- *Cliente:* Armazena informações dos clientes e seu histórico de compras.
-- *Produto:* Contém informações detalhadas sobre cada produto disponível na loja.
-- *Colaborador:* Gerencia dados dos colaboradores e suas respectivas funções.
-- *Financeiro:* Controla as transações financeiras, incluindo contas a pagar e a receber.
-- *Venda:* Responsável pelo processamento e registro de vendas.
-- *Relatório:* Gera relatórios com base nos dados do sistema para análise e tomada de decisões.
-- *Estoque:* Monitora e controla os níveis de estoque dos produtos.
-- *Endereço:* Mantém registros de endereços de clientes e fornecedores.
-- *Ferramenta:* Inclui diversas ferramentas auxiliares, como backup, restauração e análise de dados.
+Login: Exibe uma tela de login para acessar o sistema (Para acessar basta colocar Usuário: admin / Senha: admin).
+Vitrine: Exibe os produtos disponíveis na loja para visualização e compra.
+Carrinho: Permite que os clientes adicionem produtos ao carrinho de compras e revisem suas seleções antes de finalizar a compra.
+Pagamento: Gera a interface para o processamento de pagamentos.
+Fornecedores: Gerencia as informações dos fornecedores.
+Clientes: Armazena informações dos clientes e seu histórico de compras.
+Colaboradores: Gerencia dados dos colaboradores e suas respectivas funções.
+Financeiro: Controla as transações financeiras, incluindo contas a pagar e a receber.
+Relatórios: Gera relatórios com base nos dados do sistema para análise e tomada de decisões.
+Estoque: Monitora e controla os níveis de estoque dos produtos.
+Ferramentas: Inclui algumas ferramentas auxiliares, como backup, restauração e configurações do usuário.
 
 ## Tecnologias Utilizadas
 
@@ -35,7 +35,7 @@ Além disso, foram utilizados conceitos e dicas da disciplina de **Linguagens de
 
 ## Instalação
 
-1. Clone o repositório: https://github.com/RenallyLSilva/Autopecas
+1. Para acessar basta colocar Usuário: admin / Senha: admin).
    
 2. Importe o projeto no IntelliJ IDEA.
 
@@ -47,14 +47,4 @@ Além disso, foram utilizados conceitos e dicas da disciplina de **Linguagens de
 ## Interface do Usuário
 Segue video da funcionalidade do sistema
 
-
 https://github.com/ivanzduarte/Trabalho-final-de-LP-POO/assets/155582035/ef1aee76-51f5-48aa-99b7-9f013b352b1e
-
-
-
-
-
-https://github.com/RenallyLSilva/Autopecas/assets/160786534/5248c834-dfb9-47e7-97dc-c4dee79656dc
-
-
-
